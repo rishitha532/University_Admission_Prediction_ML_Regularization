@@ -1,0 +1,13 @@
+prefix=/Users/rishi/Documents/Learning/Projects/endtoendMLProjects/University_Admission_Prediction_ML_Regularization/venv
+exec_prefix=/Users/rishi/Documents/Learning/Projects/endtoendMLProjects/University_Admission_Prediction_ML_Regularization/venv
+libdir=/Users/rishi/Documents/Learning/Projects/endtoendMLProjects/University_Admission_Prediction_ML_Regularization/venv/lib
+sharedlibdir=/Users/rishi/Documents/Learning/Projects/endtoendMLProjects/University_Admission_Prediction_ML_Regularization/venv/lib
+includedir=/Users/rishi/Documents/Learning/Projects/endtoendMLProjects/University_Admission_Prediction_ML_Regularization/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

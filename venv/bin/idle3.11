@@ -1,0 +1,5 @@
+#!/Users/rishi/Documents/Learning/Projects/endtoendMLProjects/University_Admission_Prediction_ML_Regularization/venv/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
